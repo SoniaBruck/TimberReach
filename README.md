@@ -12,5 +12,4 @@ Enterprise Data Warehouse (EDW). Once aggregated, we will identify areas of the 
 
 ## Literature and resources
 
-This link will take you to published literature on no-bid timber sales on NFs:
 [Literature & Resources](literature.md)
