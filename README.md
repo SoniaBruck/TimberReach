@@ -1,5 +1,5 @@
 # TimberReach
-## Assessing merchantability on NFS lands.
+## Assessing merchantability on NFS lands
 
 The USDA Forest Service (FS) conducts timber sales on National Forests (NFs) for
 economic and environmental benefits, such as decreasing fire hazard through removal of
@@ -10,7 +10,7 @@ Not all acres suitable for timber management are merchantable. Merchantability i
 have found that there are several disparate data sources, many of which are maintained by the FS
 Enterprise Data Warehouse (EDW). Once aggregated, we will identify areas of the National Forest landscape that are more or less likely to sell, if advertised.  
 
-## Literature and Resources
+## Literature and resources
 
 This link will take you to published literature on no-bid timber sales on NFs:
 [Literature & Resources](literature.md)
