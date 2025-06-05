@@ -13,3 +13,7 @@ Enterprise Data Warehouse (EDW). Once aggregated, we will identify areas of the 
 ## Literature and resources
 
 [Literature & Resources](literature.md)
+
+## Collaboration 
+
+This research is made possible via a collaboration with the North Carolina State University Center for Geospatial Analytics 
