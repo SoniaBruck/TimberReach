@@ -10,6 +10,10 @@ Not all acres suitable for timber management are merchantable. Merchantability i
 have found that there are several disparate data sources, many of which are maintained by the FS
 Enterprise Data Warehouse (EDW). Once aggregated, we will identify areas of the National Forest landscape that are more or less likely to sell, if advertised.  
 
+## Purpose of this GitHub
+
+This Github will house open source data and code for TimberReach. Check back for interim products. 
+
 ## Literature and resources
 
 [Literature & Resources](literature.md)
