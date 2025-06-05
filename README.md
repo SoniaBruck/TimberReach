@@ -10,4 +10,5 @@ Not all acres suitable for timber management are merchantable. Merchantability i
 have found that there are several disparate data sources, many of which are maintained by the FS
 Enterprise Data Warehouse (EDW). Once aggregated, we will identify areas of the National Forest landscape that are more or less likely to sell, if advertised.  
 
+## Literature and Resources
 [Literature & Resources](literature.md)
