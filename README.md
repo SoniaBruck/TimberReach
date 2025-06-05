@@ -11,4 +11,6 @@ have found that there are several disparate data sources, many of which are main
 Enterprise Data Warehouse (EDW). Once aggregated, we will identify areas of the National Forest landscape that are more or less likely to sell, if advertised.  
 
 ## Literature and Resources
+
+This link will take you to published literature on no-bid timber sales on National Forests:
 [Literature & Resources](literature.md)
