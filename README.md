@@ -1,5 +1,5 @@
-## TimberReach
-# Assessing merchantability on NFS lands.
+# TimberReach
+## Assessing merchantability on NFS lands.
 
 The USDA Forest Service (FS) conducts timber sales on National Forests (NFs) for
 economic and environmental benefits, such as decreasing fire hazard through removal of
