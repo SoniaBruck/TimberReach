@@ -24,10 +24,6 @@ Timber sales are sales of harvestable timber that have mertachability for the pr
 
 #### The Gate System
 
-The easiest way to understand the preparation of timber sales is probably to watch [this video](https:/www.fs.fed.us/forestmanagement/video/GatesNew-3/GatesNew-3.html) about the Gate System, which is the Forest Service’s timber sale preparation process. For reference, see graphic below:
-
-<!-- image -->
-
 The Gate System is numbered 1-6, with 1-3 involving planning and preparation and 4-6 dealing with the advertisement and award of a timber sale. Gate 1 is the initial planning of a timber sale project, including scoping and plan development that identifies the purpose and need of the project. It also identifies potential project plan areas, volume targets, among other things, but does not necessarily specifically identify an individual timber sale. The District Ranger or Forest Supervisor is the appropriate authority for signing off on this phase. Gate 2 is Project Analysis, commonly referred to as the “planning gate” because this is where the environmental analysis required for all timber sale projects on National Forests happens. It also develops alternative designs and an analysis of financial efficiency. A “NEPA decision” which is an approval of the ecological and environmental considerations that are compliant with the National Environmental Policy Act (NEPA), is also signed during this stage. Gate 3 is the preparation of a timber sale where the plan identified and approved in Gate 2 gets divided out as individual sales, where all the subsequent data is done. Gate 4 is when a timber sale gets appraised, input into the TIM system to generate a contract, and advertised. Gate 5 is the bid opening where they hold an auction, if needed, and purchasers input the amount they’re willing to bid. Gate 6 awards the timber sale contract to the apparent high bidder. The gate system provides the basic structure for NFS timber sales from design to award and is integral to understanding the various processes and thresholds that need to be met for the success of timber sales.
 
 #### Types of Contracts
