@@ -46,66 +46,13 @@ For more information on timber sale contracts, [click here](https:/www.fs.fed.us
 
 In addition to the contract, other agreements often come up when discussing no-bid timber sales, such as [Good Neighbor Authority (GNA)](https:/www.fs.usda.gov/managing-land/farm-bill/gna) and [Small Business Set-Asides (SBA)](https:/www.sba.gov/document/report-rin-3245-ag69-small-business-timber-set-aside-program) .
 
-##### What are no-bids?
+#### What are no-bids?
 
 No-Bid Timber Sales, sometimes referred to as “no-bids”, are simply the absence of a bid on an advertised timber sale. These can occur for a variety of reasons on any timber sale in the National Forest that has a bidding component to it. The issue with no-bids is that they are stopping or delaying treatment to forested lands, forcing that forest or district to re-work and/or re-advertise the sale. This culminates in a loss of money, time, and acres treated, as well as a reduction in the likelihood of meeting that year’s timber targets.
 
-##### Who cares?
+#### Why its important
 
-A lot of people, apparently. The Washington Office of Forest Management with the US Forest Service measured their timber sale accomplishments by yearly timber targets. These timber targets are set (nationally) by the USDA and then divvyed up across regions and forests. According to the 2021 budget justification, a total of 4 billion board feet (2021 budget justification) is their target for the year, an 8% increase from the 2020 target of 3.7 billion board feet. Timber targets are not always met, however. In 2020, only 85% of that target was attained. However, if the no-bids originally offered in 2020 had been sold, the US Forest Service would have achieved 99% attainment for the year. For the previous five years, unsold sales had the potential to increased sale volume between 12-19%, which would have exceeded 100% attainment (PTSAR 2015-2020).
-
-All of this has led to a push in the reduction of no-bid timber sales and a call from the Washington Office to develop strategies to do so. Furthermore, Research &amp; Development has gotten involved in the study, allocating funds to the Southern Research Station to hire a research fellow through the Oak Ridge Institute for Science and Education to understand the perception and factors relating to the prevalence of no-bid timber sales. Find the original proposal [here](../../../No_Bids/Transition%20Documents/No-bid-proposal-2.docx) .
-
-The details of the first phase of this research are detailed below, including interviews, surveys, TIM data, etc.. While this is likely not sufficient to explain every aspect of this project, it hopefully provides enough of an overview to get started.
-
-### National Forest System Personnel Semi-Structured Interviews
-
-##### How did we decide who to interview?
-
-The beginning part of this research project was to gather previous literature and institutional knowledge on the issue. This started by conducting informal interviews with key Washington Office/WO Forest Management personnel, including:
-
-| NAME            | POSITION                                           | EMAIL                    |
-|-----------------|----------------------------------------------------|--------------------------|
-| Ashton Hargrave | Natural Resource Specialist (Appraisals)           | Ashton.hargrave@usda.gov |
-| David Lawrence  | Regional (R3)Timber Sale Administration Specialist | David.lawrence@usda.gov  |
-| Dave Wilson     | Sale Prep Forester                                 | David.wilson@usda.gov    |
-| Gary Church     | Assistant Director for Forest Products             | John.g.church@usda.gov   |
-| Carl Maass      | Group Leader Contracts and Appraisals              | Carl.maass@usda.gov      |
-| David Payne     | WO National Transportation Program Manager         | David.b.payne@usda.gov   |
-
-Because of their expertise, we asked for recommendations of other people to talk to or interview throughout this project throughout various regions. From there, we sent emails to 27 people asking for an interview or recommendation of others to interview. A total of 19 people accepted an interview invitation. All interviewees were asked the same set of questions pertaining to their current and past positions, their role in timber sales, what issues they thought were controllable by USFS, and what they thought the issues were regarding no-bid timber sales and how they think USFS can work to reduce those issues. Most interviews lasted around one hour, though some were as short as 30 minutes and as long as 1.5 hours. All interviews were recorded with permission from the interviewee, then verbatim transcribed, and analyzed for coding frequency and themes.
-
-##### Who did we interview?
-
-| NAME                             | CODE        | REGION                     | POSITION                                                               | TRANSCRIPT PATH   | VIDEO PATH                   |
-|----------------------------------|-------------|----------------------------|------------------------------------------------------------------------|-------------------|------------------------------|
-| Marc Dasher                      | RI01        | 6 – Willamette NF          | Contracting Officer                                                    | Transcript        | Video                        |
-| Tim Lahey                        | RI02        | 6 – Willamette NF          | Forest Products Program Manager                                        | Transcript        | Video                        |
-| Seth Tiffner                     | RI03        | 4                          | Regional Timber Sale Contract Specialist                               | Transcript        | Video                        |
-| Matt Etzenhouser                 | RI04        | 2                          | Timber Sale Preparation                                                | Transcript        | Video                        |
-| Ricky Rodriguez                  | RI05        | 9                          | Regional Appraiser                                                     | Notes             | Did not consent to recording |
-| Scott Smith                      | RI06        | 8                          | Regional Contracting Officer                                           | Transcript        | Video                        |
-| Gisele Majidi-Weese & Bryan Bell | RI07 & RI08 | 8 – National Forests in NC | Civil Engineer & Engineer                                              | Transcript        | Video                        |
-| Jacob Ormes                      | RI09        | WO                         | Engineer                                                               | Transcript        | Video                        |
-| Dave Hattis                      | RI10        | 1                          | Regional Sale Preparation, SBA, and Stewardship                        | Transcript        | Video                        |
-| Kevin Roehrs & Tim Howard        | RI11 & RI12 | 5                          | Regional Valuation Specialist & Timber Sale Preparation Program Leader | Transcript        | Video                        |
-| Mike Bigelow                     | RI13        | 9                          | Civil Transportation Engineer                                          | Transcript        | Video                        |
-| Dave Clay                        | RI14        | 1                          | Regional Timber Sale Administration/Contracting Officer                | Transcript        | Video                        |
-| Cheryl Prewitt                   | RI15        | 3                          | Regional Environmental Coordinator                                     | Transcript        | Video                        |
-| Tyler Gunn                       | RI16        | 10 – Tongass NF            | Timber Sale Administration Program Manager                             | Transcript        | Video                        |
-| Steven Johnson                   | RI17        | 4                          | Timber Sale Contract Specialist                                        | Transcript        | Video                        |
-| Dave Harris                      | RI18        | 10                         | Director of Forest Management                                          | Transcript        | Video                        |
-| Mike Dechter                     | RI19        | 3 – Coconino NF            | Environmental NEPA Coordinator                                         | Transcript        | Video                        |
-
-##### How did we analyze the results?
-
-Interviews were transcribed verbatim from audio/video recordings of the call, with minor edits for filler words (e.g., oh, um, ah). Transcripts were uploaded and analyzed using Nvivo 12, a software utilized for transcript coding and thematic identification. Transcripts were read through twice with the accompanying audio available to identify any instances of unclear context or emphasis. For NFS personnel interviews, which were conducted first, we coded for emerging themes and frequency of mentions. Individual responses were categorized to inform the emerging framework focused on understanding the proximate and underlying causes of no-bid timber sales, the level of control employees perceived that USFS had over these causes, and any potential solutions they had identified. For details on this framework, see “Drivers of No-Bids Framework” below.
-
-Nvivo documents are available in the “ [Codes from Nvivo](../../../No_Bids/Semi-Structured%20Interviews/Codes%20from%20Nvivo) ” folder. A few notes:
-
-- .nvp files should be directly downloadable into Nvivo. The NFS interview .nvp file is available [here](../../../No_Bids/Semi-Structured%20Interviews/Codes%20from%20Nvivo/NFS%20Semi%20Structured%20Interviews%20Agency.nvp) .
-- [Codes for Direct Causes](../../../No_Bids/Semi-Structured%20Interviews/Codes%20from%20Nvivo/Direct%20Causes) are available in their separate folder in word document reports
-- [Codes for Underlying Factors](../../../No_Bids/Semi-Structured%20Interviews/Codes%20from%20Nvivo/Underlying%20Factors) are available in their separate folder in word document reports
+The Washington Office of Forest Management with the US Forest Service measured their timber sale accomplishments by yearly timber targets. These timber targets are set (nationally) by the USDA and then divvyed up across regions and forests. According to the 2021 budget justification, a total of 4 billion board feet (2021 budget justification) is their target for the year, an 8% increase from the 2020 target of 3.7 billion board feet. Timber targets are not always met, however. In 2020, only 85% of that target was attained. However, if the no-bids originally offered in 2020 had been sold, the US Forest Service would have achieved 99% attainment for the year. For the previous five years, unsold sales had the potential to increased sale volume between 12-19%, which would have exceeded 100% attainment (PTSAR 2015-2020).
 
 ### Industry Professionals Interviews
 
@@ -113,29 +60,6 @@ Nvivo documents are available in the “ [Codes from Nvivo](../../../No_Bids/Sem
 
 Due to the Paperwork Reduction Act, we only had the ability to interview 9 people without gaining prior approval for the process. Since there are nine regions, we sought to have a representative from each region as a complement to the NFS personnel interviews and any subsequent research. We asked for one recommendation for a “regional representative” from our NFS personnel interviewees. When they gave us more than one individual, we just chose the middle person on the list. Interviews were conducted over the phone, recorded (with permission), and transcribed.
 
-##### Who did we interview?
-
-| NAME           | ORGANIZATION              | CODE   | REGION REPRESENTED   | TRANSCRIPT PATH   |
-|----------------|---------------------------|--------|----------------------|-------------------|
-| Tom Foust      | Private Logger in Idaho   | R1T    | R1                   | Transcript        |
-| Paul McKenzie  | Stoltze Land & Lumber     | R1P    | R1                   | Transcript        |
-| Tabi Bolton    | Campbell Global           | R3     | R3                   | Transcript        |
-| Brad Huber     | Huber Woods               | R4     | R4                   | Transcript        |
-| Robert Hoover  | Sierra Pacific Industries | R5     | R5                   | Transcript        |
-| Rick Sheppard  | Rosboro                   | R6     | R6                   | Transcript        |
-| John McLellan  | West Fraser               | R8     | R8                   | Transcript        |
-| Steve Piwarski | Piwarski Brothers         | R9     | R9                   | Transcript        |
-| Jim Harrison   | Western Gold Cedar        | R10    | R10                  | Transcript        |
-
-##### How did we analyze the results?
-
-Interviews were transcribed verbatim from audio/video recordings of the call, with minor edits for filler words (e.g., oh, um, ah). Transcripts were uploaded and analyzed using Nvivo 12, a software utilized for transcript coding and thematic identification. Transcripts were read through twice with the accompanying audio available to identify any instances of unclear context or emphasis. For industry interviews, which were conducted after the original framework was created, we coded for those themes from the framework, any new themes, and frequency of mentions. Individual responses were categorized to inform the framework focused on understanding the proximate and underlying causes of no-bid timber sales, suggestions from industry, and positive and negative sentiments of these codes. For details on this framework, see “Drivers of No-Bids Framework” below.
-
-Nvivo documents are available in the “ [Codes from Nvivo](../../../No_Bids/Semi-Structured%20Interviews/Codes%20from%20Nvivo) ” folder. A few notes:
-
-- .nvp files should be directly downloadable into Nvivo. The NFS interview .nvp file is available [here](../../../No_Bids/Semi-Structured%20Interviews/Codes%20from%20Nvivo/Semi%20Structured%20Interviews%20Industry.nvp) .
-- [Codes for Direct Causes](../../../No_Bids/Semi-Structured%20Interviews/Codes%20from%20Nvivo/Direct%20Causes) are available in their separate folder in word document reports
-- [Codes for Underlying Factors](../../../No_Bids/Semi-Structured%20Interviews/Codes%20from%20Nvivo/Underlying%20Factors) are available in their separate folder in word document reports
 
 ### TIM Access and Data Extraction
 
@@ -232,24 +156,6 @@ The Customer Satisfaction Survey is a complement to the rest of the research and
 ##### What is the status of this now?
 
 It has gone through a lot of iterations and is currently in somewhat of a limbo stage. Ashley Warriner will be your best point-of-contact on updates to this survey.
-
-### Key Stakeholders
-
-###### Southern Research Station – Research &amp; Development
-
-- Gregory Frey, Research Forester, direct supervisor of ORISE Research Fellow working on this project
-- Jeff Prestemon, Research Forester and Project Leader
-- Jesse Henderson, Research Economist
-
-###### Washington Office – Forest Management
-
-- Ashton Hargrave, Natural Resource Specialist (Appraisals), he’ll be of great help with anything TIM, markets/appraisals, and is the WO’s point-of-contact for anything detail-oriented regarding no-bids (aka – you can ask the upper levels but they’ll just tell you to reach out to Ashton)
-- Ashley Warriner, Program Specialist, she’ll be your point-of-contact with anything with the Customer Satisfaction Survey and/or anything related to Forest Products Modernization ( [FPM](https:/www.fs.usda.gov/sites/default/files/FPM-Strategic-Framework.pdf) )
-- Gary Church, Assistant Director for Forest Products, he’ll be the main decision maker and the person many of the bigger deliverables will have to pass through (briefing papers, directives, etc.) but the smaller things will likely be delegated to Ashley and/or Ashton.
-
-### Other Information
-
-More than likely, there will be questions that will arise that this FAQ does not answer. It is possible that digging through the files I’ve created throughout this fellowship will be of assistance. Therefore, I have created a folder in the shared No Bids folder to back up all of my files. It can be found here.
 
 ## No-bid Sale Contracts
 
