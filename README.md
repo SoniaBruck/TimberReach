@@ -20,4 +20,4 @@ This Github will house open source data and code for TimberReach. Check back for
 
 ## Collaboration 
 
-This research is made possible via a collaboration with the North Carolina State University Center for Geospatial Analytics 
+This research is made possible via a collaboration with the North Carolina State University Center for Geospatial Analytics and USFS-SRS
